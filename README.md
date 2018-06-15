@@ -25,23 +25,23 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: ______XXS____________
+Vulnerability #1: _________________
 
-Vulnerability #2: ________User Enumeration__________
+Vulnerability #2: ________________
 
 
 ## Green
 
-Vulnerability #1: ________IDOR__________
+Vulnerability #1: _________________
 
-Vulnerability #2: ____CSRF______________
+Vulnerability #2: _________________
 
 
 ## Red
 
-Vulnerability #1: ___________SQLI_______
+Vulnerability #1: _________________
 
-Vulnerability #2: ___________Session Hijacking/Faxation_______
+Vulnerability #2: _________________
 
 
 ## Notes
