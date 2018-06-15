@@ -4,13 +4,13 @@ Week 8 Lab and Assignments
 
 Time spent: **X** hours spent in total
 
+## Lab: 
+>Milestones 0-2______completed and done__________
+>Milestones 3-4_____________https://media.giphy.com/media/5vUDQ1qqwbdp5aRoiU/giphy.gif________________________
+>Milestone 5_________________________________
+>Milestone 6_______________________________-
+
 ## Assignment:
-Milestones 0-2______completed and done__________
-Milestones 3-4_____________https://media.giphy.com/media/5vUDQ1qqwbdp5aRoiU/giphy.gif________________________
-Milestone 5_________________________________
-Milestone 6_______________________________-
-
-
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
 
 The six possible exploits are:
@@ -25,23 +25,23 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: __________________
+Vulnerability #1: ______XXS____________
 
-Vulnerability #2: __________________
+Vulnerability #2: ________User Enumeration__________
 
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1: ________IDOR__________
 
-Vulnerability #2: __________________
+Vulnerability #2: ____CSRF______________
 
 
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1: ___________SQLI_______
 
-Vulnerability #2: __________________
+Vulnerability #2: ___________Session Hijacking/Faxation_______
 
 
 ## Notes
